@@ -1,0 +1,28 @@
+﻿<!doctype html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Single page web app using Angularjs</title>
+    <script src="../angularjs/angular.min.js"></script>
+    <script src="../angularjs/angular-route.js"></script>
+    <script src="script.js"></script>
+</head>
+<body ng-app="single-page-app">
+    <div ng-controller="cfgController">
+        <div>
+            <nav>
+                <ul>
+                    <li><a href="#/">Home</a></li>
+                    <li><a href="#/about">About us</a></li>
+                </ul>
+            </nav>
+        </div>
+        <br />
+        <div ng-view>
+            <!--
+                This DIV loads templates depending upon route.
+            -->
+        </div>
+    </div>
+</body>
+</html>

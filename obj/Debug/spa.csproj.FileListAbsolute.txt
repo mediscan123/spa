@@ -1,0 +1,12 @@
+C:\Users\admin\Documents\Visual Studio 2013\MediScan\spa\spa\bin\spa.dll.config
+C:\Users\admin\Documents\Visual Studio 2013\MediScan\spa\spa\bin\spa.dll
+C:\Users\admin\Documents\Visual Studio 2013\MediScan\spa\spa\bin\spa.pdb
+C:\Users\admin\Documents\Visual Studio 2013\MediScan\spa\spa\obj\Debug\spa.csprojResolveAssemblyReference.cache
+C:\Users\admin\Documents\Visual Studio 2013\MediScan\spa\spa\obj\Debug\spa.dll
+C:\Users\admin\Documents\Visual Studio 2013\MediScan\spa\spa\obj\Debug\spa.pdb
+C:\Users\admin\Desktop\MS work\Frst spa\spa\bin\spa.dll.config
+C:\Users\admin\Desktop\MS work\Frst spa\spa\bin\spa.dll
+C:\Users\admin\Desktop\MS work\Frst spa\spa\bin\spa.pdb
+C:\Users\admin\Desktop\MS work\Frst spa\spa\obj\Debug\spa.csprojResolveAssemblyReference.cache
+C:\Users\admin\Desktop\MS work\Frst spa\spa\obj\Debug\spa.dll
+C:\Users\admin\Desktop\MS work\Frst spa\spa\obj\Debug\spa.pdb
